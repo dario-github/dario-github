@@ -1,3 +1,5 @@
+![visitors](https://visitor-badge.glitch.me/badge?page_id=dario-github.dario-github&left_color=green&right_color=pink)
+
 Hello, I am **Dario**, an idealist. Based in `Hangzhou, China`.
 
 former `fintech algorithm researcher`, studying `knowledge graph` and `causal inference`.
