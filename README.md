@@ -14,3 +14,6 @@ fond of traditional Chinese music and folk songs, politically moderate left-lean
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
