@@ -17,3 +17,4 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://rsshub.app/bigquant/collections"
+          template: "<tr><td>$title</td><td>$description</td><td>$categories</td><td>$date</td></tr>"
