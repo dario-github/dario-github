@@ -15,6 +15,6 @@ I'm **Dario Zhang**
 ## Blog Post
 
 <table>
-  <tr><th>Title</th><th>Link</th></tr>
+  <tr><th>Title</th><th>Describe</th><th>Categories</th><th>Date</th></tr>
   <!-- STACKOVERFLOW:START --><!-- STACKOVERFLOW:END -->
 </table>
