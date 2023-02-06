@@ -1,4 +1,4 @@
-![visitors](https://visitor-badge.glitch.me/badge?page_id=dario-github.dario-github&left_color=green&right_color=pink)
+## About
 
 Hello, I am **Dario**, an idealist. Based in `Hangzhou, China`.
 
@@ -6,14 +6,17 @@ former `fintech algorithm researcher`, studying `knowledge graph` and `causal in
 
 fond of traditional Chinese music and folk songs, politically moderate left-leaning. 
 
-### Slogan: 
+## Slogan
 
 > "Forever curious."
 
 [![Dario's GitHub stats](https://github-readme-stats.vercel.app/api?username=dario-github)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
+
 <!--END_SECTION:waka-->
+
+## Blog Post
 
 <!-- BLOG-POST-LIST:START -->
 - [“订单簿的温度”系列研究（一）：反转因子的精细结构-东吴证券 &lpar;副本&rpar;](https://bigquant.com/wiki/doc/dingdan-wendu-xilie-yi-yinzi-zhengquan-fuben-wA2Xh0NuAT)
@@ -22,3 +25,5 @@ fond of traditional Chinese music and folk songs, politically moderate left-lean
 - [多因子模型体系初探-华泰证券-20160921 &lpar;副本&rpar;](https://bigquant.com/wiki/doc/yinzi-moxing-tixi-zhengquan-fuben-SejV3FmH9L)
 - [基于市场拐点的行业轮动策略-太平洋证券-20221211](https://bigquant.com/wiki/doc/shichang-guaidian-hangye-celve-zhengquan-20221211-DUh9eVqHwp)
 <!-- BLOG-POST-LIST:END -->
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=dario-github.dario-github&left_color=green&right_color=pink)
