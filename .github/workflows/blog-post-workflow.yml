@@ -17,7 +17,7 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://blog.dariolink.vercel.app/feed"
-          disable_sort: true
+          disable_sort: false
           max_post_count: 5
           date_format: mmm d, yyyy
           template: "<tr><td>$title</td><td>$description</td><td>$date</td><td>$url</td></tr>"
