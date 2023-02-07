@@ -28,3 +28,6 @@ Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=
 ## Stats
 
 ![Dario's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dariolink&theme=transparent&bg_color=00000000&hide_title=true&hide_border=true)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
