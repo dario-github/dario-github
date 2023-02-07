@@ -30,4 +30,13 @@ Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=
 ![Dario's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dariolink&layout=compose&show_icons=true&icon_color=green&text_color=blue&bg_color=00000000&hide_title=true&hide_border=true)
 
 <!--START_SECTION:waka-->
+
+```text
+From: 05 February 2023 - To: 06 February 2023
+
+Total Time: 6 hrs 17 mins
+
+Other              6 hrs 5 mins    ☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆-   96.89 %
+```
+
 <!--END_SECTION:waka-->
