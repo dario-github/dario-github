@@ -28,4 +28,20 @@ Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=
 ## Stats
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-302-blue)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Other                    6 hrs 5 mins        ████████████████████████░   96.89% 
+Jupyter                  11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.11%
+
+🐱‍💻 Projects: 
+Unknown Project          4 hrs 22 mins       █████████████████░░░░░░░░   69.47% 
+github主页profile美化        1 hr 55 mins        ███████░░░░░░░░░░░░░░░░░░   30.53%
+
+```
+
+
 <!--END_SECTION:waka-->
