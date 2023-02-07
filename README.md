@@ -34,10 +34,12 @@ Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    6 hrs 5 mins        ████████████████████████░   96.89% 
+Jupyter                  11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.11%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Unknown Project          4 hrs 22 mins       █████████████████░░░░░░░░   69.47% 
+github主页profile美化        1 hr 55 mins        ███████░░░░░░░░░░░░░░░░░░   30.53%
 
 ```
 
