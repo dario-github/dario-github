@@ -18,7 +18,7 @@ Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=
 
 <table>
   <tr><th>Title</th><th>Describe</th><th>Date</th><th>Link</th></tr>
-  <!-- BLOG-POST-LIST:START --><tr><td>jupyter notebook无法import同一目录下的文件</td><td>jupyter在browser</td><td>Feb 11, 2023</td><td>https://blog.dariolink.vercel.app/jupyter-notebook无法import同一目录下的文件</td></tr><tr><td>解决在vscode中使用wakatime记录jupyter时间问题</td><td>本文讨论在使用vscode记录jupyter项目时间时遇到的问题，包括无法连接vultr服务器、远端调用kernel、内存不足等，并给出了相应的解决方案。</td><td>Feb 7, 2023</td><td>https://blog.dariolink.vercel.app/解决在vscode中使用wakatime记录jupyter时间问题</td></tr><tr><td>解决代理脚本证书续期失败问题</td><td>代理脚本自动续期证书失败，在此记录解决该问题的经历</td><td>Feb 7, 2023</td><td>https://blog.dariolink.vercel.app/解决代理脚本证书续期失败问题</td></tr><!-- BLOG-POST-LIST:END -->
+  <!-- BLOG-POST-LIST:START --><tr><td>jupyter notebook无法import同级目录下的文件</td><td>jupyter在browser打开时，即使根目录不是项目目录，notebook也可以import同级文件，但用vscode远程打开时，无法import同级文件。</td><td>Feb 11, 2023</td><td>https://blog.dariolink.vercel.app/jupyter-notebook无法import同级目录下的文件</td></tr><tr><td>pylance提示远程jupyter无法import库</td><td>Note &amp; Push</td><td>Feb 11, 2023</td><td>https://blog.dariolink.vercel.app/pylance提示远程jupyter无法import库</td></tr><tr><td>解决在vscode中使用wakatime记录jupyter时间问题</td><td>本文讨论在使用vscode记录jupyter项目时间时遇到的问题，包括无法连接vultr服务器、远端调用kernel、内存不足等，并给出了相应的解决方案。</td><td>Feb 11, 2023</td><td>https://blog.dariolink.vercel.app/解决在vscode中使用wakatime记录jupyter时间问题</td></tr><!-- BLOG-POST-LIST:END -->
 </table>
 
 <!--START_SECTION:waka-->
