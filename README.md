@@ -14,7 +14,7 @@ Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=
 ![Basic Skills](https://skillicons.dev/icons?i=bash,git,linux,md)
 ![Basic Skills](https://skillicons.dev/icons?i=vim,vscode,jupyterlab)
 
-## Latest [Blog Posts](https://blog.dariolink.vercel.app/)
+## Latest Blog Posts ([Note & Push](https://blog.dariolink.vercel.app/))
 
 <table>
   <tr><th>Title</th><th>Describe</th><th>Date</th><th>Link</th></tr>
