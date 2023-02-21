@@ -18,6 +18,6 @@ jobs:
         with:
           feed_list: "https://blog.dariolink.vercel.app/feed"
           disable_sort: false
-          max_post_count: 3
+          max_post_count: 2
           date_format: mmm d, yyyy
           template: "<tr><td>$title</td><td>$description</td><td>$date</td><td>$url</td></tr>"
