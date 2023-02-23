@@ -18,7 +18,7 @@ Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=
 
 <table>
   <tr><th>Title</th><th>Describe</th><th>Date</th><th>Link</th></tr>
-  <!-- BLOG-POST-LIST:START --><tr><td>利用pyinstaller在win构建python项目的exe文件</td><td>Note &amp; Push</td><td>Feb 23, 2023</td><td>https://blog.dariolink.vercel.app/利用pyinstaller在win构建python项目的exe文件</td></tr><tr><td>解决tabulate中文字符无法对齐的问题</td><td>中英文字符的宽度不同，tabulate默认用英文宽度</td><td>Feb 20, 2023</td><td>https://blog.dariolink.vercel.app/解决tabulate中文字符无法对齐的问题</td></tr><!-- BLOG-POST-LIST:END -->
+  <!-- BLOG-POST-LIST:START --><tr><td>利用pyinstaller在win构建python项目的exe文件</td><td>Note &amp; Push</td><td>Feb 23, 2023</td><td>https://blog.dariolink.vercel.app/利用pyinstaller在win构建python项目的exe文件</td></tr><tr><td>关于上野千鹤子大陆爆火一事的思考</td><td>我们只是讨厌对自己有威胁的存在罢了</td><td>Feb 23, 2023</td><td>https://blog.dariolink.vercel.app/关于上野千鹤子大陆爆火一事的思考</td></tr><!-- BLOG-POST-LIST:END -->
 </table>
 
 <!--START_SECTION:waka-->
