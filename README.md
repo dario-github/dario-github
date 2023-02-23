@@ -18,7 +18,7 @@ Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=
 
 <table>
   <tr><th>Title</th><th>Describe</th><th>Date</th><th>Link</th></tr>
-  <!-- BLOG-POST-LIST:START --><tr><td>解决tabulate中文字符无法对齐的问题</td><td>中英文字符的宽度不同，tabulate默认用英文宽度</td><td>Feb 20, 2023</td><td>https://blog.dariolink.vercel.app/解决tabulate中文字符无法对齐的问题</td></tr><tr><td>pytest-html=3.1.1对py.xml的依赖缺失</td><td>pytest的依赖pytest-html没有添加依赖py，导致报错ModuleNotFoundError</td><td>Feb 20, 2023</td><td>https://blog.dariolink.vercel.app/pytest-html311对pyxml的依赖缺失</td></tr><!-- BLOG-POST-LIST:END -->
+  <!-- BLOG-POST-LIST:START --><tr><td>利用pyinstaller在win构建python项目的exe文件</td><td>Note &amp; Push</td><td>Feb 23, 2023</td><td>https://blog.dariolink.vercel.app/利用pyinstaller在win构建python项目的exe文件</td></tr><tr><td>解决tabulate中文字符无法对齐的问题</td><td>中英文字符的宽度不同，tabulate默认用英文宽度</td><td>Feb 20, 2023</td><td>https://blog.dariolink.vercel.app/解决tabulate中文字符无法对齐的问题</td></tr><!-- BLOG-POST-LIST:END -->
 </table>
 
 <!--START_SECTION:waka-->
