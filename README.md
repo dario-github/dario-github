@@ -18,7 +18,7 @@ Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=
 
 <table>
   <tr><th>Title</th><th>Describe</th><th>Date</th><th>Link</th></tr>
-  <!-- BLOG-POST-LIST:START --><tr><td>利用pyinstaller在win构建python项目的exe文件</td><td>Note &amp; Push</td><td>Feb 24, 2023</td><td>https://blog.dariolink.vercel.app/利用pyinstaller在win构建python项目的exe文件</td></tr><tr><td>Notion NLP: A Tool to Analyze Text Themes in Notion Databases</td><td>Note &amp; Push</td><td>Feb 24, 2023</td><td>https://blog.dariolink.vercel.app/notion-nlp-a-tool-to-analyze-text-themes-in-notion-databases</td></tr><!-- BLOG-POST-LIST:END -->
+  <!-- BLOG-POST-LIST:START --><tr><td>Notion NLP: A Tool to Analyze Text Themes in Notion Databases</td><td>Note &amp; Push</td><td>Feb 24, 2023</td><td>https://blog.dariolink.vercel.app/notion-nlp-a-tool-to-analyze-text-themes-in-notion-databases</td></tr><tr><td>重新思考人类语言的底层逻辑</td><td>Note &amp; Push</td><td>Feb 24, 2023</td><td>https://blog.dariolink.vercel.app/重新思考人类语言的底层逻辑</td></tr><!-- BLOG-POST-LIST:END -->
 </table>
 
 <!--START_SECTION:waka-->
