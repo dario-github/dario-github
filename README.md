@@ -18,7 +18,7 @@ Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=
 
 <table>
   <tr><th>Title</th><th>Describe</th><th>Date</th><th>Link</th></tr>
-  <!-- BLOG-POST-LIST:START --><tr><td>DarioLink</td><td>Note &amp; Push</td><td>Feb 24, 2023</td><td>https://blog.dariolink.vercel.app/d7d16c147f81480db3f2d93258678e2b</td></tr><tr><td>重新思考人类语言的底层逻辑</td><td>Note &amp; Push</td><td>Feb 24, 2023</td><td>https://blog.dariolink.vercel.app/重新思考人类语言的底层逻辑</td></tr><!-- BLOG-POST-LIST:END -->
+  <!-- BLOG-POST-LIST:START --><tr><td>通过chatGPT对Sydney的提问，了解其底层代码逻辑</td><td>Note &amp; Push</td><td>Feb 24, 2023</td><td>https://blog.dariolink.vercel.app/通过chatgpt对sydney的提问了解其底层代码逻辑</td></tr><tr><td>重新思考人类语言的底层逻辑</td><td>Note &amp; Push</td><td>Feb 24, 2023</td><td>https://blog.dariolink.vercel.app/重新思考人类语言的底层逻辑</td></tr><!-- BLOG-POST-LIST:END -->
 </table>
 
 <!--START_SECTION:waka-->
