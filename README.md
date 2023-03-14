@@ -18,7 +18,7 @@ Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=
 
 <table>
   <tr><th>Title</th><th>Describe</th><th>Date</th><th>Link</th></tr>
-  <!-- BLOG-POST-LIST:START --><tr><td>通过chatGPT对Sydney的提问，了解其底层代码逻辑</td><td>Note &amp; Push</td><td>Feb 24, 2023</td><td>https://blog.dariolink.vercel.app/通过chatgpt对sydney的提问了解其底层代码逻辑</td></tr><tr><td>重新思考人类语言的底层逻辑</td><td>Note &amp; Push</td><td>Feb 24, 2023</td><td>https://blog.dariolink.vercel.app/重新思考人类语言的底层逻辑</td></tr><!-- BLOG-POST-LIST:END -->
+  <!-- BLOG-POST-LIST:START --><tr><td>如何用思维模型克服情绪干扰和提高思考质量</td><td>总结自己的思考模型，准确判断自己当前情绪状态，避免在不同情绪下思考内容发生变化</td><td>Mar 14, 2023</td><td>https://blog.dariolink.vercel.app/如何用思维模型克服情绪干扰和提高思考质量</td></tr><tr><td>通过chatGPT对Sydney的提问，了解其底层代码逻辑</td><td>Note &amp; Push</td><td>Feb 24, 2023</td><td>https://blog.dariolink.vercel.app/通过chatgpt对sydney的提问了解其底层代码逻辑</td></tr><!-- BLOG-POST-LIST:END -->
 </table>
 
 <!--START_SECTION:waka-->
