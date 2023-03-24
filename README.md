@@ -18,7 +18,7 @@ Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=
 
 <table>
   <tr><th>Title</th><th>Describe</th><th>Date</th><th>Link</th></tr>
-  <!-- BLOG-POST-LIST:START --><tr><td>利用GPT-4准备NLP算法面试</td><td>Note &amp; Push</td><td>Mar 20, 2023</td><td>https://blog.dariolink.vercel.app/利用gpt-4准备nlp算法面试</td></tr><tr><td>后GPT时代</td><td>Note &amp; Push</td><td>Mar 16, 2023</td><td>https://blog.dariolink.vercel.app/后gpt时代</td></tr><!-- BLOG-POST-LIST:END -->
+  <!-- BLOG-POST-LIST:START --><tr><td>NLP技术路线</td><td>Note &amp; Push</td><td>Mar 24, 2023</td><td>https://blog.dariolink.vercel.app/nlp技术路线</td></tr><tr><td>后GPT时代</td><td>Note &amp; Push</td><td>Mar 16, 2023</td><td>https://blog.dariolink.vercel.app/后gpt时代</td></tr><!-- BLOG-POST-LIST:END -->
 </table>
 
 <!--START_SECTION:waka-->
