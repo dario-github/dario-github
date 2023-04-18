@@ -18,7 +18,7 @@ Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=
 
 <table>
   <tr><th>Title</th><th>Describe</th><th>Date</th><th>Link</th></tr>
-  <!-- BLOG-POST-LIST:START --><tr><td>科技的便利与挑战：在中国环境中寻求平衡</td><td>科技的发展给人们带来了极大的便利，但是也可能带来一些不可预知的风险和挑战。在中国，通讯应用程序WeChat限制了Linux登录工具的使用，显示出技术公司在推出有用工具时可能面对的挑战。同时，对敏感话题的处理也展示了公司被迫采取的笨拙方式。</td><td>Apr 16, 2023</td><td>https://blog.dariolink.vercel.app/科技的便利与挑战在中国环境中寻求平衡</td></tr><tr><td>后GPT时代：人类面临的挑战与前景</td><td>这篇文章探讨了人类在后GPT时代面临的挑战与前景。随着人工智能和计算机技术的发展，人类开始追求与AI相似度，但这也可能导致我们失去独立思考的能力和个性。文章提出了硅基生命取代碳基生命的可能性，并思考了宇宙作为试验场的概念。最后，文章提出了一个问题：我们是否应该追求与AI相似度，还是寻找与众不同的价值？</td><td>Apr 1, 2023</td><td>https://blog.dariolink.vercel.app/后gpt时代人类面临的挑战与前景</td></tr><!-- BLOG-POST-LIST:END -->
+  <!-- BLOG-POST-LIST:START --><tr><td>《失落的自我》第二章：哲学的种子</td><td>在一个高度依赖人工智能的未来社会中，GPT已经深入人类生活的方方面面，对话、创作、教育、决策等都被GPT处理。这种情况导致人们开始质疑自己的存在价值和目的。</td><td>Apr 18, 2023</td><td>https://blog.dariolink.vercel.app/失落的自我第二章哲学的种子</td></tr><tr><td>《失落的自我》第一章：江桓的困境</td><td>在一个高度依赖人工智能的未来社会中，GPT已经深入人类生活的方方面面，对话、创作、教育、决策等都被GPT处理。这种情况导致人们开始质疑自己的存在价值和目的。</td><td>Apr 18, 2023</td><td>https://blog.dariolink.vercel.app/失落的自我第一章江桓的困境</td></tr><!-- BLOG-POST-LIST:END -->
 </table>
 
 <!--START_SECTION:waka-->
