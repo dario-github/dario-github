@@ -18,7 +18,7 @@ Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=
 
 <table>
   <tr><th>Title</th><th>Describe</th><th>Date</th><th>Link</th></tr>
-  <!-- BLOG-POST-LIST:START --><tr><td>《失落的自我》第二章：哲学的种子</td><td>在一个高度依赖人工智能的未来社会中，GPT已经深入人类生活的方方面面，对话、创作、教育、决策等都被GPT处理。这种情况导致人们开始质疑自己的存在价值和目的。</td><td>Apr 18, 2023</td><td>https://blog.dariolink.vercel.app/失落的自我第二章哲学的种子</td></tr><tr><td>《失落的自我》第一章：江桓的困境</td><td>在一个高度依赖人工智能的未来社会中，GPT已经深入人类生活的方方面面，对话、创作、教育、决策等都被GPT处理。这种情况导致人们开始质疑自己的存在价值和目的。</td><td>Apr 18, 2023</td><td>https://blog.dariolink.vercel.app/失落的自我第一章江桓的困境</td></tr><!-- BLOG-POST-LIST:END -->
+  <!-- BLOG-POST-LIST:START --><tr><td>在WSL的vscode上使用GPG签名提交更改</td><td>因为GPG在WSL上不弹出图形窗口的缘故，需要先在命令行调出密码输入的命令行窗口，然后缓存秘钥，之后才能用vscode的git提交。</td><td>Jun 9, 2023</td><td>https://blog.dariolink.vercel.app/在wsl的vscode上使用gpg签名提交更改</td></tr><tr><td>《失落的自我》第二章：哲学的种子</td><td>在一个高度依赖人工智能的未来社会中，GPT已经深入人类生活的方方面面，对话、创作、教育、决策等都被GPT处理。这种情况导致人们开始质疑自己的存在价值和目的。</td><td>Apr 18, 2023</td><td>https://blog.dariolink.vercel.app/失落的自我第二章哲学的种子</td></tr><!-- BLOG-POST-LIST:END -->
 </table>
 
 <!--START_SECTION:waka-->
