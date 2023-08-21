@@ -28,10 +28,10 @@ Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=
 
 ```text
 💬 Programming Languages: 
-Other                    49 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-BlueFocus                49 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
