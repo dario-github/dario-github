@@ -28,11 +28,10 @@ Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=
 
 ```text
 💬 Programming Languages: 
-JSON                     13 mins             ████████████████░░░░░░░░░   62.35 % 
-Other                    8 mins              █████████░░░░░░░░░░░░░░░░   37.65 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Unknown Project          21 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
