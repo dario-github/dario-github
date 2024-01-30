@@ -22,16 +22,16 @@ Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=
 </table>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Other                    2 mins              █████████████████████████   100.00 % 
+Other                    12 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-content-universe-GPT     2 mins              █████████████████████████   100.00 % 
+content-universe-GPT     12 mins             █████████████████████████   100.00 % 
 ```
 
 
