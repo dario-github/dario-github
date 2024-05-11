@@ -8,6 +8,8 @@ Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=
 - Studying `Knowledge Graph` & `Causal Discovery`;
 - Graduated from `Tongji University`.
 
+With years of experience as an NLP algorithm engineer and data scientist, I hold a dual degree in Mathematics and German from Tongji University. I am dedicated to designing and implementing AI technical solutions, encompassing technological architecture and product interaction design. My research expertise lies in command optimization and logical reasoning for large models, coupled with extensive experience in macro-market analysis and venture capital. I have actively engaged in the application and performance tuning of AI technologies, and have led the development of several AI mini-models and analytical tools for the marketing industry. I am committed to integrating technological innovations with market demands, driving the commercial implementation of cutting-edge industry technologies.
+
 ## Skills
 
 ![Language](https://skillicons.dev/icons?i=py,matlab,pytorch,latex,regex,mysql,sqlite)
