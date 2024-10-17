@@ -45,11 +45,10 @@ Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=
 
 ```text
 💬 Programming Languages: 
-Image (svg)              17 mins             ████████████████████████░   97.92 % 
-Other                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Unknown Project          17 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
