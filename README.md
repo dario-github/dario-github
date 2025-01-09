@@ -41,15 +41,5 @@ Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Markdown                 0 secs              █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-Unknown Project          0 secs              █████████████████████████   100.00 % 
-```
-
 
 <!--END_SECTION:waka-->
