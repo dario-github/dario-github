@@ -45,10 +45,10 @@ Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Text                     4 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+产品                       4 mins              █████████████████████████   100.00 % 
 ```
 
 
