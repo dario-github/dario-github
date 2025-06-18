@@ -12,7 +12,7 @@ Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=
 - **NLP Algorithm Engineer & Data Scientist:** Expertise in AI solution architecture and product interaction design.
 
 🎓 **Education:**
-- **Dual Degree:** Mathematics, Tongji University and Technical University of Munich (TUM).
+- **Dual Degree:** Mathematics, Tongji University and Technical University of Berlin (TUB).
 
 🛠️ **Expertise:**
 - **Large Model Optimization & Logical Reasoning:** Proficient in addressing complex AI challenges.
