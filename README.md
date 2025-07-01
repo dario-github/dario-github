@@ -41,16 +41,5 @@ Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Python                   1 hr 32 mins        ███████████████████████░░   90.11 % 
-HTML                     10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.89 % 
-
-🐱‍💻 Projects: 
-内宇 AI 平台分析               1 hr 43 mins        █████████████████████████   100.00 % 
-```
-
 
 <!--END_SECTION:waka-->
