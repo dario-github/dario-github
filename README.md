@@ -41,18 +41,5 @@ Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-TOML                     44 mins             ███████████████░░░░░░░░░░   60.24 % 
-Markdown                 14 mins             █████░░░░░░░░░░░░░░░░░░░░   20.26 % 
-Other                    14 mins             █████░░░░░░░░░░░░░░░░░░░░   19.40 % 
-CSV                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
-
-🐱‍💻 Projects: 
-素材搜索                     1 hr 13 mins        █████████████████████████   100.00 % 
-```
-
 
 <!--END_SECTION:waka-->
