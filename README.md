@@ -45,12 +45,10 @@ Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=
 
 ```text
 💬 Programming Languages: 
-Markdown                 19 mins             ████████████████████████░   95.14 % 
-YAML                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
-Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-AWS-CLI                  20 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
