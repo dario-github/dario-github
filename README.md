@@ -45,16 +45,15 @@ Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=
 
 ```text
 💬 Programming Languages: 
-SSH Config               3 mins              ███████████░░░░░░░░░░░░░░   42.90 % 
-Bash                     2 mins              ████████░░░░░░░░░░░░░░░░░   33.27 % 
-JSON                     1 min               █████░░░░░░░░░░░░░░░░░░░░   19.67 % 
-Markdown                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
+JSON                     8 mins              █████████████████░░░░░░░░   69.98 % 
+SSH Config               3 mins              ███████░░░░░░░░░░░░░░░░░░   27.37 % 
+Markdown                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
 
 🐱‍💻 Projects: 
-clawdbot                 3 mins              ███████████░░░░░░░░░░░░░░   42.90 % 
-AWS-CLI                  2 mins              █████████░░░░░░░░░░░░░░░░   37.43 % 
-content-universe-GPT     1 min               ████░░░░░░░░░░░░░░░░░░░░░   17.85 % 
-接口                       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
+接口                       7 mins              ███████████████░░░░░░░░░░   58.60 % 
+clawdbot                 3 mins              ███████░░░░░░░░░░░░░░░░░░   27.37 % 
+content-universe-GPT     1 min               ███░░░░░░░░░░░░░░░░░░░░░░   11.38 % 
+AWS-CLI                  0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
 ```
 
 
