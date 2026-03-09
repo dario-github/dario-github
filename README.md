@@ -39,22 +39,23 @@ Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=
 </table>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-JSON                     8 mins              █████████████████░░░░░░░░   66.83 % 
-SSH Config               3 mins              ███████░░░░░░░░░░░░░░░░░░   26.13 % 
-Other                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
+Other                    10 mins             ███████████░░░░░░░░░░░░░░   45.25 % 
+JSON                     8 mins              █████████░░░░░░░░░░░░░░░░   37.34 % 
+SSH Config               3 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.60 % 
+CSV                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
 
 🐱‍💻 Projects: 
-接口                       7 mins              ██████████████░░░░░░░░░░░   55.96 % 
-clawdbot                 3 mins              ███████░░░░░░░░░░░░░░░░░░   26.13 % 
-content-universe-GPT     1 min               ███░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
-AWS-CLI                  0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
+AWS-CLI                  11 mins             ████████████░░░░░░░░░░░░░   48.06 % 
+接口                       7 mins              ████████░░░░░░░░░░░░░░░░░   31.27 % 
+clawdbot                 3 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.60 % 
+content-universe-GPT     1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   06.07 % 
 ```
 
 
