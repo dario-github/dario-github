@@ -45,14 +45,14 @@ Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=
 
 ```text
 💬 Programming Languages: 
-Other                    44 mins             ███████████████████░░░░░░   74.68 % 
-YAML                     11 mins             █████░░░░░░░░░░░░░░░░░░░░   19.67 % 
-CSV                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
-Bash                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
+Other                    43 mins             ███████████████████░░░░░░   74.58 % 
+YAML                     11 mins             █████░░░░░░░░░░░░░░░░░░░░   19.98 % 
+CSV                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
+Bash                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
 Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🐱‍💻 Projects: 
-AWS-CLI                  59 mins             █████████████████████████   100.00 % 
+AWS-CLI                  58 mins             █████████████████████████   100.00 % 
 ```
 
 
