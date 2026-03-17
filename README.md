@@ -39,19 +39,16 @@ Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=
 </table>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Other                    33 mins             ██████████████████░░░░░░░   70.38 % 
-YAML                     11 mins             ██████░░░░░░░░░░░░░░░░░░░   24.29 % 
-CSV                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
-Bash                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-AWS-CLI                  48 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
