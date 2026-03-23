@@ -39,16 +39,22 @@ Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=
 </table>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Markdown                 1 min               █████████████████████████   100.00 % 
+TeX                      19 mins             ███████░░░░░░░░░░░░░░░░░░   29.38 % 
+JSON                     18 mins             ███████░░░░░░░░░░░░░░░░░░   28.80 % 
+Python                   18 mins             ███████░░░░░░░░░░░░░░░░░░   28.10 % 
+Markdown                 5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.94 % 
+BibTeX                   2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
 
 🐱‍💻 Projects: 
-AWS-CLI                  1 min               █████████████████████████   100.00 % 
+nous-paper               36 mins             ██████████████░░░░░░░░░░░   56.08 % 
+AWS-CLI                  28 mins             ███████████░░░░░░░░░░░░░░   43.92 % 
+clawdbot                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 
 
