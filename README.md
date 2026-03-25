@@ -39,23 +39,24 @@ Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=
 </table>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-TeX                      56 mins             ███████████░░░░░░░░░░░░░░   43.42 % 
-Python                   29 mins             ██████░░░░░░░░░░░░░░░░░░░   22.61 % 
-JSON                     25 mins             █████░░░░░░░░░░░░░░░░░░░░   19.45 % 
-BibTeX                   12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
-Markdown                 5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 % 
+TeX                      2 hrs 28 mins       ███████████░░░░░░░░░░░░░░   43.26 % 
+Python                   1 hr 22 mins        ██████░░░░░░░░░░░░░░░░░░░   23.93 % 
+Markdown                 58 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.09 % 
+JSON                     31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.06 % 
+BibTeX                   13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
 
 🐱‍💻 Projects: 
-crai-2026                1 hr 6 mins         █████████████░░░░░░░░░░░░   50.50 % 
-nous-paper               36 mins             ███████░░░░░░░░░░░░░░░░░░   27.75 % 
-AWS-CLI                  28 mins             █████░░░░░░░░░░░░░░░░░░░░   21.74 % 
-clawdbot                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+crai-2026                3 hrs 23 mins       ███████████████░░░░░░░░░░   59.22 % 
+nous                     52 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.24 % 
+nous-paper               36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.59 % 
+AWS-CLI                  28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 % 
+Unknown Project          14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
 ```
 
 
