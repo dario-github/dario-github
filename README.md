@@ -39,24 +39,24 @@ Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=
 </table>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-TeX                      2 hrs 28 mins       ███████████░░░░░░░░░░░░░░   43.26 % 
-Python                   1 hr 22 mins        ██████░░░░░░░░░░░░░░░░░░░   23.93 % 
-Markdown                 58 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.09 % 
-JSON                     31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.06 % 
-BibTeX                   13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
+TeX                      2 hrs 28 mins       ███████████░░░░░░░░░░░░░░   42.13 % 
+Python                   1 hr 22 mins        ██████░░░░░░░░░░░░░░░░░░░   23.31 % 
+Markdown                 1 hr                ████░░░░░░░░░░░░░░░░░░░░░   17.07 % 
+JSON                     32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.11 % 
+BibTeX                   13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
 
 🐱‍💻 Projects: 
-crai-2026                3 hrs 23 mins       ███████████████░░░░░░░░░░   59.22 % 
-nous                     52 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.24 % 
-nous-paper               36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.59 % 
-AWS-CLI                  28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 % 
-Unknown Project          14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
+crai-2026                3 hrs 23 mins       ██████████████░░░░░░░░░░░   57.68 % 
+nous                     52 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.85 % 
+nous-paper               36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.32 % 
+AWS-CLI                  27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
+clawdbot                 16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 % 
 ```
 
 
