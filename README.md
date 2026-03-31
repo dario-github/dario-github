@@ -45,18 +45,18 @@ Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=
 
 ```text
 💬 Programming Languages: 
-TeX                      2 hrs 42 mins       ██████████░░░░░░░░░░░░░░░   39.61 % 
-Markdown                 1 hr 28 mins        █████░░░░░░░░░░░░░░░░░░░░   21.65 % 
-Python                   1 hr 22 mins        █████░░░░░░░░░░░░░░░░░░░░   20.02 % 
-JSON                     43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.66 % 
-BibTeX                   17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
+TeX                      1 hr 47 mins        █████████░░░░░░░░░░░░░░░░   36.34 % 
+Markdown                 1 hr 24 mins        ███████░░░░░░░░░░░░░░░░░░   28.66 % 
+Python                   52 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.80 % 
+JSON                     18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.18 % 
+SSH Config               17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
 
 🐱‍💻 Projects: 
-crai-2026                3 hrs 23 mins       ████████████░░░░░░░░░░░░░   49.55 % 
-nous                     1 hr 35 mins        ██████░░░░░░░░░░░░░░░░░░░   23.37 % 
-nous-paper               36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.86 % 
-clawdbot                 30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 % 
-AWS-CLI                  27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.70 % 
+crai-2026                2 hrs 17 mins       ████████████░░░░░░░░░░░░░   46.47 % 
+nous                     1 hr 37 mins        ████████░░░░░░░░░░░░░░░░░   33.10 % 
+clawdbot                 42 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.55 % 
+Unknown Project          15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.30 % 
+sage-analysis            1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
 ```
 
 
