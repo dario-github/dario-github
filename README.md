@@ -45,16 +45,16 @@ Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=
 
 ```text
 💬 Programming Languages: 
-Markdown                 31 mins             ██████████░░░░░░░░░░░░░░░   38.24 % 
-TeX                      15 mins             █████░░░░░░░░░░░░░░░░░░░░   18.89 % 
-JSON                     12 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.23 % 
-SSH Config               10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.86 % 
-XML                      6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.34 % 
+Markdown                 29 mins             ██████████░░░░░░░░░░░░░░░   40.19 % 
+TeX                      15 mins             █████░░░░░░░░░░░░░░░░░░░░   21.53 % 
+JSON                     11 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.98 % 
+SSH Config               10 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.66 % 
+BibTeX                   3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
 
 🐱‍💻 Projects: 
-nous                     45 mins             ██████████████░░░░░░░░░░░   54.72 % 
-clawdbot                 36 mins             ███████████░░░░░░░░░░░░░░   43.77 % 
-Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
+nous                     45 mins             ████████████████░░░░░░░░░   62.39 % 
+clawdbot                 26 mins             █████████░░░░░░░░░░░░░░░░   36.92 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
 ```
 
 
