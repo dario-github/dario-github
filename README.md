@@ -39,22 +39,22 @@ Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=
 </table>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Markdown                 19 mins             █████████████░░░░░░░░░░░░   52.20 % 
-SSH Config               10 mins             ███████░░░░░░░░░░░░░░░░░░   28.93 % 
-Other                    4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.42 % 
-TypeScript               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
+SSH Config               10 mins             ███████████░░░░░░░░░░░░░░   44.87 % 
+Markdown                 6 mins              ██████░░░░░░░░░░░░░░░░░░░   25.85 % 
+Other                    4 mins              █████░░░░░░░░░░░░░░░░░░░░   20.82 % 
+TypeScript               1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 % 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
 
 🐱‍💻 Projects: 
-clawdbot                 27 mins             ██████████████████░░░░░░░   73.54 % 
-data_infra               9 mins              ██████░░░░░░░░░░░░░░░░░░░   25.09 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
+clawdbot                 14 mins             ███████████████░░░░░░░░░░   59.58 % 
+data_infra               9 mins              ██████████░░░░░░░░░░░░░░░   38.92 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
 ```
 
 
