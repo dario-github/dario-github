@@ -45,14 +45,15 @@ Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=
 
 ```text
 💬 Programming Languages: 
-Markdown                 6 mins              ████████████░░░░░░░░░░░░░   47.69 % 
-Other                    4 mins              ██████████░░░░░░░░░░░░░░░   38.40 % 
-TypeScript               1 min               ███░░░░░░░░░░░░░░░░░░░░░░   13.91 % 
+Other                    4 hrs 31 mins       ████████████████░░░░░░░░░   63.96 % 
+Python                   1 hr 15 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.67 % 
+Markdown                 1 hr 11 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.70 % 
+YAML                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
+INI                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 🐱‍💻 Projects: 
-data_infra               9 mins              ██████████████████░░░░░░░   71.81 % 
-clawdbot                 3 mins              ██████░░░░░░░░░░░░░░░░░░░   25.43 % 
-Unknown Project          0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
+data_infra               4 hrs 47 mins       █████████████████░░░░░░░░   67.58 % 
+clawdbot                 2 hrs 17 mins       ████████░░░░░░░░░░░░░░░░░   32.42 % 
 ```
 
 
