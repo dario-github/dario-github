@@ -45,15 +45,15 @@ Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=
 
 ```text
 💬 Programming Languages: 
-Other                    4 hrs 31 mins       ████████████████░░░░░░░░░   63.96 % 
-Python                   1 hr 15 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.67 % 
-Markdown                 1 hr 11 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.70 % 
-YAML                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
-INI                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+Other                    5 hrs 37 mins       █████████████████░░░░░░░░   67.78 % 
+Python                   1 hr 17 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.54 % 
+Markdown                 1 hr 11 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.36 % 
+YAML                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
+Bash                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
 
 🐱‍💻 Projects: 
-data_infra               4 hrs 47 mins       █████████████████░░░░░░░░   67.58 % 
-clawdbot                 2 hrs 17 mins       ████████░░░░░░░░░░░░░░░░░   32.42 % 
+data_infra               5 hrs 32 mins       █████████████████░░░░░░░░   66.86 % 
+clawdbot                 2 hrs 44 mins       ████████░░░░░░░░░░░░░░░░░   33.14 % 
 ```
 
 
