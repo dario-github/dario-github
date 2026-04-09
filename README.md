@@ -39,21 +39,22 @@ Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=
 </table>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Other                    5 hrs 37 mins       █████████████████░░░░░░░░   67.78 % 
-Python                   1 hr 17 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.54 % 
-Markdown                 1 hr 11 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.36 % 
-YAML                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
-Bash                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
+Other                    7 hrs               █████████████████░░░░░░░░   67.55 % 
+Python                   1 hr 32 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.90 % 
+Markdown                 1 hr 28 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.15 % 
+YAML                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
+Bash                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
 
 🐱‍💻 Projects: 
-data_infra               5 hrs 32 mins       █████████████████░░░░░░░░   66.86 % 
-clawdbot                 2 hrs 44 mins       ████████░░░░░░░░░░░░░░░░░   33.14 % 
+data_infra               5 hrs 54 mins       ██████████████░░░░░░░░░░░   56.89 % 
+clawdbot                 2 hrs 44 mins       ███████░░░░░░░░░░░░░░░░░░   26.48 % 
+catl-opinion-emergence   1 hr 43 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.63 % 
 ```
 
 
