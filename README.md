@@ -45,16 +45,16 @@ Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=
 
 ```text
 💬 Programming Languages: 
-Other                    7 hrs               █████████████████░░░░░░░░   67.55 % 
-Python                   1 hr 32 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.90 % 
-Markdown                 1 hr 28 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.15 % 
-YAML                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
-Bash                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
+Other                    8 hrs 38 mins       █████████████░░░░░░░░░░░░   51.80 % 
+Python                   3 hrs 50 mins       ██████░░░░░░░░░░░░░░░░░░░   23.03 % 
+Markdown                 3 hrs 4 mins        █████░░░░░░░░░░░░░░░░░░░░   18.41 % 
+TypeScript               22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
+YAML                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
 
 🐱‍💻 Projects: 
-data_infra               5 hrs 54 mins       ██████████████░░░░░░░░░░░   56.89 % 
-clawdbot                 2 hrs 44 mins       ███████░░░░░░░░░░░░░░░░░░   26.48 % 
-catl-opinion-emergence   1 hr 43 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.63 % 
+catl-opinion-emergence   8 hrs 11 mins       ████████████░░░░░░░░░░░░░   49.13 % 
+data_infra               5 hrs 45 mins       █████████░░░░░░░░░░░░░░░░   34.54 % 
+clawdbot                 2 hrs 43 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.33 % 
 ```
 
 
