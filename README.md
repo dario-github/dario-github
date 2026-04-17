@@ -41,23 +41,5 @@ Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue?style=flat)
 
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Other                    7 hrs 3 mins        ████████████░░░░░░░░░░░░░   48.22 % 
-Python                   2 hrs 19 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.91 % 
-Markdown                 2 hrs 12 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.04 % 
-TypeScript               44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
-HTML                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
-
-🐱‍💻 Projects: 
-catl-opinion-emergence   8 hrs 29 mins       ███████████████░░░░░░░░░░   58.05 % 
-clawdbot                 4 hrs 53 mins       ████████░░░░░░░░░░░░░░░░░   33.50 % 
-Unknown Project          51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
-user                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
-content-universe-GPT     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
-```
-
 
 <!--END_SECTION:waka-->
