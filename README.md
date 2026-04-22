@@ -39,23 +39,23 @@ Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=
 </table>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Other                    5 hrs 49 mins       ███████████░░░░░░░░░░░░░░   42.35 % 
-Markdown                 2 hrs 34 mins       █████░░░░░░░░░░░░░░░░░░░░   18.72 % 
-Python                   2 hrs 3 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.93 % 
-Bash                     1 hr 40 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.15 % 
-JSON                     1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 % 
+Other                    3 hrs 47 mins       ████████░░░░░░░░░░░░░░░░░   31.10 % 
+Python                   2 hrs 46 mins       ██████░░░░░░░░░░░░░░░░░░░   22.66 % 
+Markdown                 2 hrs 25 mins       █████░░░░░░░░░░░░░░░░░░░░   19.83 % 
+Bash                     1 hr 33 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.73 % 
+JSON                     1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.18 % 
 
 🐱‍💻 Projects: 
-Unknown Project          5 hrs 8 mins        █████████░░░░░░░░░░░░░░░░   37.33 % 
-clawdbot                 4 hrs 38 mins       ████████░░░░░░░░░░░░░░░░░   33.73 % 
-user                     3 hrs 44 mins       ███████░░░░░░░░░░░░░░░░░░   27.22 % 
-content-universe-GPT     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
+Unknown Project          5 hrs 29 mins       ███████████░░░░░░░░░░░░░░   44.90 % 
+user                     3 hrs 42 mins       ████████░░░░░░░░░░░░░░░░░   30.38 % 
+clawdbot                 2 hrs 37 mins       █████░░░░░░░░░░░░░░░░░░░░   21.42 % 
+content-universe-GPT     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
 ```
 
 
