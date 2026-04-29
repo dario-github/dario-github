@@ -45,17 +45,12 @@ Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=
 
 ```text
 💬 Programming Languages: 
-Python                   46 mins             ████████████░░░░░░░░░░░░░   46.00 % 
-Other                    17 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.17 % 
-Bash                     16 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.49 % 
-JSON                     11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.86 % 
-Markdown                 8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 % 
+Bash                     16 mins             ██████████████████████░░░   86.81 % 
+Markdown                 2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.19 % 
 
 🐱‍💻 Projects: 
-Unknown Project          1 hr 5 mins         ████████████████░░░░░░░░░   65.21 % 
-user                     19 mins             █████░░░░░░░░░░░░░░░░░░░░   18.85 % 
-content-universe-GPT     10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.97 % 
-clawdbot                 6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
+Unknown Project          14 mins             ███████████████████░░░░░░   76.48 % 
+user                     4 mins              ██████░░░░░░░░░░░░░░░░░░░   23.52 % 
 ```
 
 
