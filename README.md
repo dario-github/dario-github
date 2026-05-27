@@ -45,10 +45,18 @@ Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 6 hrs 54 mins       ██████████████████████░░░   87.98 % 
+Other                    19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
+JSON                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
+Shell                    7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
+Git Config               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Documents                1 hr 56 mins        ██████░░░░░░░░░░░░░░░░░░░   24.82 % 
+files-mentioned-by-the-us1 hr 14 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.77 % 
+lisahost                 1 hr 7 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.32 % 
+AWS-CLI                  59 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.73 % 
+codex                    47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
 ```
 
 
