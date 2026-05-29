@@ -41,5 +41,19 @@ Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Markdown                 2 hrs               ████████████████████████░   94.40 % 
+Git Config               5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
+CSV                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
+Git                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+
+🐱‍💻 Projects: 
+lisahost                 1 hr 7 mins         █████████████░░░░░░░░░░░░   52.94 % 
+AWS-CLI                  59 mins             ████████████░░░░░░░░░░░░░   47.06 % 
+```
+
 
 <!--END_SECTION:waka-->
