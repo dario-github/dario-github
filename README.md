@@ -45,18 +45,18 @@ Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=
 
 ```text
 💬 Programming Languages: 
-Markdown                 4 hrs 53 mins       █████████████████████░░░░   85.35 % 
-CSV                      26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 % 
-TOML                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
-Bash                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
-Git Config               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
+Markdown                 5 hrs 5 mins        ██████████████████░░░░░░░   73.00 % 
+Git Config               37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
+CSV                      27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.46 % 
+Python                   26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.42 % 
+Bash                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
 
 🐱‍💻 Projects: 
-AWS-CLI                  2 hrs 58 mins       █████████████░░░░░░░░░░░░   52.03 % 
-lisahost                 1 hr 7 mins         █████░░░░░░░░░░░░░░░░░░░░   19.61 % 
-dario-github-kox-ddd-lab 45 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.34 % 
-codex                    37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.82 % 
-Unknown Project          8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
+AWS-CLI                  3 hrs 19 mins       ████████████░░░░░░░░░░░░░   47.86 % 
+codex                    1 hr 41 mins        ██████░░░░░░░░░░░░░░░░░░░   24.29 % 
+dario-github-kox-ddd-lab 45 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.97 % 
+source                   28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.80 % 
+zhongwen-shortdrama-conte22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
 ```
 
 
