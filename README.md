@@ -41,23 +41,5 @@ Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
 
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Markdown                 5 hrs 5 mins        ██████████████████░░░░░░░   73.00 % 
-Git Config               37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
-CSV                      27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.46 % 
-Python                   26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.42 % 
-Bash                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
-
-🐱‍💻 Projects: 
-AWS-CLI                  3 hrs 19 mins       ████████████░░░░░░░░░░░░░   47.86 % 
-codex                    1 hr 41 mins        ██████░░░░░░░░░░░░░░░░░░░   24.29 % 
-dario-github-kox-ddd-lab 45 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.97 % 
-source                   28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.80 % 
-zhongwen-shortdrama-conte22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
-```
-
 
 <!--END_SECTION:waka-->
