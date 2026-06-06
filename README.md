@@ -39,24 +39,24 @@ Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=
 </table>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Markdown                 16 hrs 12 mins      ████████████████░░░░░░░░░   62.49 % 
-Python                   4 hrs 6 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.81 % 
-HTML                     1 hr 49 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.06 % 
-YAML                     49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
-Git Config               47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
+Markdown                 17 hrs 3 mins       ██████████████░░░░░░░░░░░   56.40 % 
+Python                   5 hrs 15 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.38 % 
+HTML                     1 hr 52 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.18 % 
+SQL                      1 hr 27 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
+JavaScript               51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
 
 🐱‍💻 Projects: 
-codex                    8 hrs 6 mins        ████████░░░░░░░░░░░░░░░░░   31.27 % 
-zhongwen-shortdrama-conte4 hrs 59 mins       █████░░░░░░░░░░░░░░░░░░░░   19.21 % 
-AWS-CLI                  3 hrs 34 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.78 % 
-source                   3 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.01 % 
-dario-github-kox-ddd-lab 2 hrs 34 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.94 % 
+codex                    7 hrs 57 mins       ███████░░░░░░░░░░░░░░░░░░   26.31 % 
+zhongwen-shortdrama-conte7 hrs 48 mins       ██████░░░░░░░░░░░░░░░░░░░   25.80 % 
+source                   5 hrs 17 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.51 % 
+zhongwen-shortdrama      2 hrs 31 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 % 
+nous-invest              2 hrs 28 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
 ```
 
 
