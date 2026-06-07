@@ -39,24 +39,24 @@ Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=
 </table>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Markdown                 17 hrs 3 mins       ██████████████░░░░░░░░░░░   56.40 % 
-Python                   5 hrs 15 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.38 % 
-HTML                     1 hr 52 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.18 % 
-SQL                      1 hr 27 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
+Markdown                 17 hrs              ██████████████░░░░░░░░░░░   56.45 % 
+Python                   5 hrs 15 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.44 % 
+HTML                     1 hr 48 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
+SQL                      1 hr 27 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
 JavaScript               51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
 
 🐱‍💻 Projects: 
-codex                    7 hrs 57 mins       ███████░░░░░░░░░░░░░░░░░░   26.31 % 
-zhongwen-shortdrama-conte7 hrs 48 mins       ██████░░░░░░░░░░░░░░░░░░░   25.80 % 
-source                   5 hrs 17 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.51 % 
-zhongwen-shortdrama      2 hrs 31 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 % 
-nous-invest              2 hrs 28 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
+codex                    7 hrs 57 mins       ███████░░░░░░░░░░░░░░░░░░   26.39 % 
+zhongwen-shortdrama-conte7 hrs 48 mins       ██████░░░░░░░░░░░░░░░░░░░   25.88 % 
+source                   5 hrs 15 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.44 % 
+zhongwen-shortdrama      2 hrs 31 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
+nous-invest              2 hrs 28 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 % 
 ```
 
 
