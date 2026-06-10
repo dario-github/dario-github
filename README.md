@@ -45,18 +45,18 @@ Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=
 
 ```text
 💬 Programming Languages: 
-Markdown                 17 hrs 27 mins      ████████████████░░░░░░░░░   65.37 % 
-Python                   3 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.01 % 
-SQL                      1 hr 34 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.93 % 
-HTML                     54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
-Bash                     47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
+Markdown                 12 hrs 22 mins      ████████████████░░░░░░░░░   65.07 % 
+Python                   1 hr 40 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.80 % 
+SQL                      1 hr 34 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 % 
+HTML                     44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
+JavaScript               33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
 
 🐱‍💻 Projects: 
-zhongwen-shortdrama-conte8 hrs 2 mins        ████████░░░░░░░░░░░░░░░░░   30.13 % 
-source                   5 hrs 24 mins       █████░░░░░░░░░░░░░░░░░░░░   20.25 % 
-codex                    4 hrs 49 mins       █████░░░░░░░░░░░░░░░░░░░░   18.09 % 
-zhongwen-shortdrama      4 hrs 34 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.13 % 
-nous-invest              2 hrs 29 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.36 % 
+zhongwen-shortdrama-conte7 hrs 1 min         █████████░░░░░░░░░░░░░░░░   36.94 % 
+zhongwen-shortdrama      4 hrs 24 mins       ██████░░░░░░░░░░░░░░░░░░░   23.14 % 
+source                   3 hrs 19 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.44 % 
+codex                    1 hr 59 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.47 % 
+nous-invest              1 hr 55 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.14 % 
 ```
 
 
