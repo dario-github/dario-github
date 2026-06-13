@@ -39,24 +39,24 @@ Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=
 </table>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Markdown                 13 hrs 36 mins      ████████████████████░░░░░   79.23 % 
-Python                   52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
-CSS                      40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
-TypeScript               34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
-SQL                      27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
+Markdown                 12 hrs 48 mins      ████████████████████░░░░░   78.30 % 
+Python                   51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.29 % 
+CSS                      40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
+TypeScript               34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
+SQL                      27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
 
 🐱‍💻 Projects: 
-zhongwen-shortdrama      5 hrs 51 mins       █████████░░░░░░░░░░░░░░░░   34.11 % 
-zhongwen-shortdrama-conte5 hrs 50 mins       █████████░░░░░░░░░░░░░░░░   34.02 % 
-codex                    2 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.12 % 
-source                   2 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.26 % 
-nous-invest              40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
+zhongwen-shortdrama-conte5 hrs 50 mins       █████████░░░░░░░░░░░░░░░░   35.68 % 
+zhongwen-shortdrama      5 hrs 21 mins       ████████░░░░░░░░░░░░░░░░░   32.75 % 
+source                   2 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.79 % 
+codex                    1 hr 58 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.03 % 
+nous-invest              40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
 ```
 
 
