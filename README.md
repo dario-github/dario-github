@@ -45,18 +45,18 @@ Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=
 
 ```text
 💬 Programming Languages: 
-Markdown                 9 hrs 3 mins        ██████████████████████░░░   89.86 % 
-TypeScript               18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
-CSS                      18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
-JSON                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
-SQL                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
+Markdown                 30 hrs 6 mins       ████████████████████░░░░░   79.71 % 
+TypeScript               1 hr 21 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
+HTML                     1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
+Python                   1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
+TOML                     48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
 
 🐱‍💻 Projects: 
-zhongwen-shortdrama-conte6 hrs 35 mins       ████████████████░░░░░░░░░   65.35 % 
-zhongwen-shortdrama      2 hrs 18 mins       ██████░░░░░░░░░░░░░░░░░░░   22.89 % 
-codex                    48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 % 
-Unknown Project          9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
-claude                   7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
+zhongwen-shortdrama-conte24 hrs 28 mins      ████████████████░░░░░░░░░   64.78 % 
+zhongwen-shortdrama      8 hrs 56 mins       ██████░░░░░░░░░░░░░░░░░░░   23.65 % 
+codex                    3 hrs 37 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.59 % 
+source                   18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
+claude                   15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
 ```
 
 
