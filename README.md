@@ -45,18 +45,18 @@ Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=
 
 ```text
 💬 Programming Languages: 
-Markdown                 18 hrs 24 mins      ████████████████████░░░░░   79.20 % 
-HTML                     1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.22 % 
-Python                   1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.14 % 
-TypeScript               32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
-JSON                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
+Markdown                 16 hrs 41 mins      ████████████████████░░░░░   80.08 % 
+HTML                     1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+Python                   1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.85 % 
+TypeScript               32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
+JSON                     18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
 
 🐱‍💻 Projects: 
-zhongwen-shortdrama-conte12 hrs 19 mins      █████████████░░░░░░░░░░░░   53.05 % 
-zhongwen-shortdrama      7 hrs 50 mins       ████████░░░░░░░░░░░░░░░░░   33.72 % 
-codex                    1 hr 49 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
-06-seedance2-adapter.md  18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
-claude                   17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
+zhongwen-shortdrama-conte10 hrs 21 mins      ████████████░░░░░░░░░░░░░   49.67 % 
+zhongwen-shortdrama      6 hrs 58 mins       ████████░░░░░░░░░░░░░░░░░   33.46 % 
+codex                    2 hrs 23 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.51 % 
+06-seedance2-adapter.md  18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
+claude                   17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
 ```
 
 
