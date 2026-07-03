@@ -45,18 +45,18 @@ Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=
 
 ```text
 💬 Programming Languages: 
-Markdown                 14 hrs 4 mins       ██████████████████░░░░░░░   71.99 % 
-Python                   2 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.38 % 
-HTML                     48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
-TypeScript               47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
-YAML                     34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
+Markdown                 16 hrs 18 mins      ███████████████████░░░░░░   75.55 % 
+TypeScript               1 hr 36 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 % 
+Python                   1 hr 31 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.09 % 
+HTML                     41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
+YAML                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
 
 🐱‍💻 Projects: 
-zhongwen-shortdrama-conte9 hrs 2 mins        ████████████░░░░░░░░░░░░░   46.27 % 
-codex                    4 hrs 50 mins       ██████░░░░░░░░░░░░░░░░░░░   24.79 % 
-zhongwen-shortdrama      2 hrs 31 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.88 % 
-workspace                1 hr 43 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.83 % 
-source                   48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
+zhongwen-shortdrama-conte11 hrs 1 min        █████████████░░░░░░░░░░░░   51.05 % 
+zhongwen-shortdrama      5 hrs 10 mins       ██████░░░░░░░░░░░░░░░░░░░   23.97 % 
+workspace                2 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
+codex                    1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.24 % 
+source                   41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
 ```
 
 
