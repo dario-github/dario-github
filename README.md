@@ -39,24 +39,24 @@ Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=
 </table>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Markdown                 16 hrs 18 mins      ███████████████████░░░░░░   75.55 % 
-TypeScript               1 hr 36 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 % 
-Python                   1 hr 31 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.09 % 
-HTML                     41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
-YAML                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
+Markdown                 16 hrs 4 mins       ███████████████████░░░░░░   75.37 % 
+TypeScript               1 hr 36 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 % 
+Python                   1 hr 31 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.18 % 
+HTML                     41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
+YAML                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
 
 🐱‍💻 Projects: 
-zhongwen-shortdrama-conte11 hrs 1 min        █████████████░░░░░░░░░░░░   51.05 % 
-zhongwen-shortdrama      5 hrs 10 mins       ██████░░░░░░░░░░░░░░░░░░░   23.97 % 
-workspace                2 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
-codex                    1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.24 % 
-source                   41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
+zhongwen-shortdrama-conte11 hrs 1 min        █████████████░░░░░░░░░░░░   51.64 % 
+zhongwen-shortdrama      5 hrs 10 mins       ██████░░░░░░░░░░░░░░░░░░░   24.25 % 
+workspace                2 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.32 % 
+codex                    1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
+source                   41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
 ```
 
 
