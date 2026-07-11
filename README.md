@@ -45,18 +45,18 @@ Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=
 
 ```text
 💬 Programming Languages: 
-Markdown                 38 hrs 10 mins      ██████████████████████░░░   86.33 % 
-Bash                     3 hrs 22 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
-JSON                     47 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
-TypeScript               40 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
-HTML                     32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
+Markdown                 35 hrs 49 mins      █████████████████████░░░░   85.76 % 
+Bash                     3 hrs 22 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 % 
+JSON                     47 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
+TypeScript               40 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
+HTML                     32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
 
 🐱‍💻 Projects: 
-zhongwen-shortdrama-conte10 hrs 39 mins      ██████░░░░░░░░░░░░░░░░░░░   24.11 % 
-e206c6b7-0170-4f5a-b045-16 hrs 30 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.73 % 
-899e1385-1d06-4124-89d0-b5 hrs 57 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.48 % 
-1a9dbe60-f40b-4cbb-b3c1-a5 hrs 27 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.34 % 
-zhongwen-shortdrama      5 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.17 % 
+zhongwen-shortdrama-conte10 hrs 3 mins       ██████░░░░░░░░░░░░░░░░░░░   24.08 % 
+899e1385-1d06-4124-89d0-b5 hrs 57 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.27 % 
+1a9dbe60-f40b-4cbb-b3c1-a5 hrs 27 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.06 % 
+zhongwen-shortdrama      5 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.88 % 
+e206c6b7-0170-4f5a-b045-14 hrs 58 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
 ```
 
 
