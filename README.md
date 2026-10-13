@@ -39,24 +39,51 @@ Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=
 </table>
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-381%20hrs%2049%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-387%20hrs%2036%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               4 hrs 1 min         █████████████████░░░░░░░░   69.72 % 
+Markdown                 1 hr 23 mins        ██████░░░░░░░░░░░░░░░░░░░   23.95 % 
+JSON                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
+Text                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+zhongwen-shortdrama-main 4 hrs 35 mins       ████████████████████░░░░░   79.32 % 
+ceo                      1 hr 9 mins         █████░░░░░░░░░░░░░░░░░░░░   19.95 % 
+Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+_kit                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 5 hrs 47 mins (100.0%)
+
+✍️ 7,300 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 1,182,251,843 Input Tokens, 5,141,994 Output Tokens
+
+💵 $3200.36 Estimated AI Cost This Week
+
+🧠 166 AI Sessions, 191 AI Prompts
+
+Opus                     4,426 lines         ███████████████░░░░░░░░░░   59.98 % 
+GPT                      2,953 lines         ██████████░░░░░░░░░░░░░░░   40.02 % 
+Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Exec-Wakatime            0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📚 Verbose Prompter — average 12,398 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
