@@ -47,42 +47,42 @@ Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=
 
 ```text
 💬 Programming Languages: 
-TypeScript               18 hrs 43 mins      ███████████░░░░░░░░░░░░░░   45.41 % 
-Markdown                 11 hrs 54 mins      ███████░░░░░░░░░░░░░░░░░░   28.89 % 
-Python                   3 hrs 21 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 % 
-JSON                     2 hrs 46 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.73 % 
-JavaScript               1 hr 47 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
+TypeScript               11 hrs 58 mins      ███████████░░░░░░░░░░░░░░   42.72 % 
+Markdown                 7 hrs 43 mins       ███████░░░░░░░░░░░░░░░░░░   27.59 % 
+Python                   3 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.87 % 
+JavaScript               1 hr 45 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.29 % 
+JSON                     1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.77 % 
 
 🐱‍💻 Projects: 
-zhongwen-shortdrama-main 22 hrs 58 mins      ██████████████░░░░░░░░░░░   55.75 % 
-ceo                      14 hrs 38 mins      █████████░░░░░░░░░░░░░░░░   35.53 % 
-Unknown Project          1 hr 32 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
-cx-v1-lautoref           48 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
-_cli053                  31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
+zhongwen-shortdrama-main 15 hrs 22 mins      ██████████████░░░░░░░░░░░   54.87 % 
+ceo                      9 hrs 47 mins       █████████░░░░░░░░░░░░░░░░   34.92 % 
+Unknown Project          1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
+cx-v1-lautoref           48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+_cli053                  31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 41 hrs 13 mins (100.0%)
+⏱ AI Coding Time: 28 hrs 1 min (100.0%)
 
-✍️ 21,776 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 13,822 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 3,252,349,500 Input Tokens, 13,410,278 Output Tokens
+🔤 2,610,171,075 Input Tokens, 10,912,631 Output Tokens
 
-💵 $8606.05 Estimated AI Cost This Week
+💵 $6641.57 Estimated AI Cost This Week
 
-🧠 631 AI Sessions, 634 AI Prompts
+🧠 537 AI Sessions, 533 AI Prompts
 
-GPT                      10,349 lines        ████████████░░░░░░░░░░░░░   46.66 % 
-Opus                     10,061 lines        ███████████░░░░░░░░░░░░░░   45.36 % 
-Sonnet                   1,770 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 % 
+GPT                      8,007 lines         ██████████████░░░░░░░░░░░   56.35 % 
+Opus                     5,910 lines         ██████████░░░░░░░░░░░░░░░   41.59 % 
+Sonnet                   292 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
 Exec-Wakatime            0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 11,364 characters per prompt
+📚 Verbose Prompter — average 11,743 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
