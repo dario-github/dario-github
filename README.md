@@ -39,7 +39,7 @@ Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=
 </table>
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-433%20hrs%203%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-440%20hrs%2040%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -47,42 +47,42 @@ Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=
 
 ```text
 💬 Programming Languages: 
-Markdown                 52 hrs 41 mins      ███████████░░░░░░░░░░░░░░   43.90 % 
-TypeScript               22 hrs 59 mins      █████░░░░░░░░░░░░░░░░░░░░   19.16 % 
-JSON                     15 hrs 16 mins      ███░░░░░░░░░░░░░░░░░░░░░░   12.72 % 
-Other                    9 hrs 19 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 % 
-JavaScript               5 hrs 8 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
+Markdown                 43 hrs 42 mins      ██████████░░░░░░░░░░░░░░░   40.38 % 
+TypeScript               23 hrs 31 mins      █████░░░░░░░░░░░░░░░░░░░░   21.74 % 
+JSON                     11 hrs 51 mins      ███░░░░░░░░░░░░░░░░░░░░░░   10.95 % 
+Other                    11 hrs 1 min        ███░░░░░░░░░░░░░░░░░░░░░░   10.19 % 
+JavaScript               5 hrs 9 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.77 % 
 
 🐱‍💻 Projects: 
-zhongwen-shortdrama-main 35 hrs 25 mins      ███████░░░░░░░░░░░░░░░░░░   29.52 % 
-ceo                      8 hrs 35 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.16 % 
-Unknown Project          5 hrs 23 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
-captain-1016             4 hrs 57 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
-src                      1 hr 45 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
+zhongwen-shortdrama-main 35 hrs 13 mins      ████████░░░░░░░░░░░░░░░░░   32.55 % 
+ceo                      13 hrs              ███░░░░░░░░░░░░░░░░░░░░░░   12.02 % 
+captain-1016             4 hrs 10 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
+Unknown Project          3 hrs 57 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
+selftest-1019c           1 hr 17 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 120 hrs 2 mins (100.0%)
+⏱ AI Coding Time: 108 hrs 13 mins (100.0%)
 
-✍️ 126,054 lines written by AI, 4 lines written by hand (100.0% AI-written)
+✍️ 118,931 lines written by AI, 4 lines written by hand (100.0% AI-written)
 
-🔤 5,832,580,912 Input Tokens, 51,462,324 Output Tokens
+🔤 4,470,513,085 Input Tokens, 49,546,940 Output Tokens
 
-💵 $23163.45 Estimated AI Cost This Week
+💵 $19081.81 Estimated AI Cost This Week
 
-🧠 3553 AI Sessions, 4058 AI Prompts
+🧠 3234 AI Sessions, 3835 AI Prompts
 
-Opus                     70,046 lines        ██████████████░░░░░░░░░░░   54.56 % 
-GPT                      37,460 lines        ███████░░░░░░░░░░░░░░░░░░   29.18 % 
-K                        11,279 lines        ██░░░░░░░░░░░░░░░░░░░░░░░   08.78 % 
-Sonnet                   7,887 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   06.14 % 
-Claude-Code              1,229 lines         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
+Opus                     61,845 lines        █████████████░░░░░░░░░░░░   51.53 % 
+GPT                      36,420 lines        ████████░░░░░░░░░░░░░░░░░   30.34 % 
+K                        11,377 lines        ██░░░░░░░░░░░░░░░░░░░░░░░   09.48 % 
+Sonnet                   8,664 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   07.22 % 
+Claude-Code              1,229 lines         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 7,109 characters per prompt
+📚 Verbose Prompter — average 6,917 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
