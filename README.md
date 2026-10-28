@@ -47,44 +47,44 @@ Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=
 
 ```text
 💬 Programming Languages: 
-Other                    23 hrs 53 mins      ████████░░░░░░░░░░░░░░░░░   33.53 % 
-Markdown                 19 hrs 22 mins      ███████░░░░░░░░░░░░░░░░░░   27.19 % 
-TypeScript               12 hrs 11 mins      ████░░░░░░░░░░░░░░░░░░░░░   17.10 % 
-Diff                     4 hrs 10 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
-JSON                     3 hrs 7 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
+Other                    45 hrs 54 mins      ███████████░░░░░░░░░░░░░░   43.04 % 
+Markdown                 31 hrs 1 min        ███████░░░░░░░░░░░░░░░░░░   29.09 % 
+Diff                     8 hrs 46 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 % 
+Python                   6 hrs 22 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.98 % 
+TypeScript               6 hrs 17 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.89 % 
 
 🐱‍💻 Projects: 
-zhongwen-shortdrama-main 25 hrs 57 mins      █████████░░░░░░░░░░░░░░░░   36.45 % 
-ceo                      14 hrs 55 mins      █████░░░░░░░░░░░░░░░░░░░░   20.95 % 
-codex                    1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
-h3-5090-1026             52 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
-test-deploy              52 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
+zhongwen-shortdrama-main 27 hrs 53 mins      ███████░░░░░░░░░░░░░░░░░░   26.16 % 
+ceo                      24 hrs 29 mins      ██████░░░░░░░░░░░░░░░░░░░   22.96 % 
+codex                    3 hrs 43 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
+test-deploy              1 hr 4 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
+r6                       56 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 71 hrs 14 mins (100.0%)
+⏱ AI Coding Time: 106 hrs 39 mins (100.0%)
 
-✍️ 68,484 lines written by AI, 4 lines written by hand (99.99% AI-written)
+✍️ 61,590 lines written by AI, 2 lines written by hand (100.0% AI-written)
 
-🔤 389,574,998 Input Tokens, 35,817,886 Output Tokens
+🔤 416,884,907 Input Tokens, 35,162,294 Output Tokens
 
-💵 $4933.16 Estimated AI Cost This Week
+💵 $3996.82 Estimated AI Cost This Week
 
-🧠 2288 AI Sessions, 3033 AI Prompts
+🧠 2054 AI Sessions, 2860 AI Prompts
 
-Opus                     28,337 lines        ██████████░░░░░░░░░░░░░░░   41.03 % 
-GPT                      23,671 lines        █████████░░░░░░░░░░░░░░░░   34.27 % 
-K                        9,048 lines         ███░░░░░░░░░░░░░░░░░░░░░░   13.10 % 
-Sonnet                   7,944 lines         ███░░░░░░░░░░░░░░░░░░░░░░   11.50 % 
-Fable                    48 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+Opus                     28,415 lines        ████████████░░░░░░░░░░░░░   46.07 % 
+GPT                      23,489 lines        ██████████░░░░░░░░░░░░░░░   38.08 % 
+Sonnet                   7,235 lines         ███░░░░░░░░░░░░░░░░░░░░░░   11.73 % 
+K                        2,519 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
+Haiku                    24 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.99% of written lines came from AI
-📚 Verbose Prompter — average 5,618 characters per prompt
+🤖 AI-Driven — 100.0% of written lines came from AI
+📚 Verbose Prompter — average 5,755 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 0.01% of changed lines were hand-edited
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
