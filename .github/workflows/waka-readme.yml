@@ -22,7 +22,7 @@ jobs:
           SHOW_LANGUAGE: true
           SHOW_COMMIT: false
           SHOW_DAYS_OF_WEEK: false
-          SHOW_PROJECTS: true
+          SHOW_PROJECTS: false
           SHOW_OS: false
           SHOW_TIMEZONE: false
           SHOW_EDITORS: false

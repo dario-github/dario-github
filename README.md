@@ -2,28 +2,16 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=dario-github&show_icons=true&bg_color=00000000&hide_title=true&hide_border=true&include_all_commits=true&count_private=true&theme=transparent" />
 
-Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"> I'm **Dario Zhang**
+I'm **Dario Zhang**, an AI platform lead in Beijing with 8 years in AI. I started in NLP and causal inference.
 
-- A former `Fintech Algorithm Engineer`;
-- Studying `Knowledge Graph` & `Causal Discovery`;
-- Graduated from `Tongji University`.
+- Built a low-code agent platform at BlueFocus: 2,000+ agents in production, tools behind an MCP gateway, layered memory for multi-agent context.
+- Led KOX, a multi-agent video generation system on Strands Agents and AWS Bedrock AgentCore.
+- Now lead an AI production platform: multi-model image and video orchestration, model routing and failover. It went live in production within 3 months.
+- My code is written by a team of AI agents. I design the system, split the work and review what comes back.
 
-🔍 **Experience:**
-- **NLP Algorithm Engineer & Data Scientist:** Expertise in AI solution architecture and product interaction design.
+**Side projects:** [agent-self-evolution](https://github.com/dario-github/agent-self-evolution) · [biomorphic-memory](https://github.com/dario-github/biomorphic-memory) · [nous](https://github.com/dario-github/nous) · [claude-guard](https://github.com/dario-github/claude-guard)
 
-🎓 **Education:**
-- **Dual Degree:** Mathematics, Tongji University and Technical University of Berlin (TUB).
-
-🛠️ **Expertise:**
-- **Large Model Optimization & Logical Reasoning:** Proficient in addressing complex AI challenges.
-- **Macro-Market Analysis & Venture Capital:** Extensive experience in strategic market assessments and investment.
-
-🚀 **Projects:**
-- **AI Models for Marketing:** Developed several models and tools focused on enhancing marketing strategies.
-
-🌐 **Focus:**
-- **Integrating Technology and Market Demands:** Committed to merging cutting-edge technology with practical market needs for robust commercial application.
-
+**Education:** B.S. in Mathematics, Tongji University
 
 ## Skills
 
