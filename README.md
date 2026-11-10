@@ -40,13 +40,6 @@ Markdown                 20 hrs 57 mins      ███████░░░░�
 Diff                     9 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.07 % 
 Python                   4 hrs 17 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
 Text                     1 hr 21 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
-
-🐱‍💻 Projects: 
-zhongwen-shortdrama-main 23 hrs 20 mins      ████████░░░░░░░░░░░░░░░░░   30.51 % 
-ceo                      13 hrs 2 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.04 % 
-codex                    3 hrs 38 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
-scratch-2026-10-26-8d821c1 hr 13 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
-test-deploy              1 hr 4 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
 ```
 
 🤖 **AI Coding This Week** 
